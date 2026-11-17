@@ -1,6 +1,6 @@
 # Hyperloop Finance
 
-**Building non-liquidative fixed-rate credit infrastructure for Bitcoin.**
+**A non-liquidative lending protocol pairing each loan with a matching put option**
 
 ---
 
