@@ -1,6 +1,6 @@
 # Hyperloop Finance
 
-**A non-liquidative lending protocol pairing each loan with a matching put option**
+**A non-liquidative lending protocol pairing each loan with a matching put option.**
 
 ---
 
